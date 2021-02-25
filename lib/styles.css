@@ -1,0 +1,33 @@
+ELEMENTS
+*{
+    border: 1px solid red;
+}
+img{
+    max-width: 300px;
+    float: left;
+}
+/* CLASSES */
+.title{
+    display: flex;
+    justify-content: center;
+}
+.nav-bar{
+    display: flex;
+    justify-content: space-around;
+}
+.nav-bar-items{
+    display: flex;
+    justify-content: center;
+}
+
+.card-body{
+    display: flex;
+    align-content: left;
+    float: right;
+}
+.container{
+    display: flex;
+    align-items: top;
+    max-width: 70vw;
+    margin: 0 auto;
+}

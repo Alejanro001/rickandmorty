@@ -1,0 +1,8 @@
+/* * {
+    border: 1px solid red;
+}
+ */
+body{
+    background-image: url("https://vignette.wikia.nocookie.net/rickandmorty/images/5/50/Wiki-background/revision/latest?cb=20191107220952");
+    min-height: 100vh;
+}
